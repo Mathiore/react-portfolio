@@ -3,7 +3,10 @@ import './contatos.css'
 
 const Contatos = () => {
   return (
-    <section id="contatos">Contatos</section>
+    <section id="contatos">
+      <h5>Fale Comigo</h5>
+      <h2>Contatos</h2>
+    </section>
   )
 }
 
