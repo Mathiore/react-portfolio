@@ -36,7 +36,7 @@ const Experiencia = () => {
             <article className="experience_details">
             <HiBadgeCheck className='experience_details-icon'/>
             <div>
-              <h4>Bootsrap</h4>
+              <h4>Bootstrap</h4>
               <small>Experiente</small>
             </div>
             </article>
