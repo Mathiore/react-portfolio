@@ -45,8 +45,14 @@ header h5 {
     position: absolute;
     left:calc(50% - 11rem);
     margin-top: 4rem;
-    
+    transition: var(--transition);
+
 }
+
+.me:hover{
+    filter: grayscale(100%) contrast(120%);
+}
+
 
 .scroll_down{
     position: absolute;
