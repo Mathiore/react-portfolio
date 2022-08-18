@@ -35,7 +35,7 @@
     border: transparent;
     transition: var(--transition);
     background: var(--color-dark);
-    
+    color: #fff;
 }
 
 .about_icon{

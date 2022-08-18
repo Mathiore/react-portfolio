@@ -20,11 +20,15 @@ const Services = () => {
             </li>
             <li>
               <BsCheckAll className='service_icon'/>
-              <p>Lorem ipsum dolor sit amet imperium consectur delas notches</p>
+              <p>Otimização no modo de utilizar o site</p>
             </li>
             <li>
               <BsCheckAll className='service_icon'/>
-              <p>Lorem ipsum dolor sit amet imperium consectur delas notches</p>
+              <p>Site mais dinâmico e agradável de navegar</p>
+            </li>
+            <li>
+              <BsCheckAll className='service_icon'/>
+              <p>Projetos mais eficientes</p>
             </li>
           </ul>
         </article>
@@ -39,7 +43,7 @@ const Services = () => {
             </li>
             <li>
               <BsCheckAll className='service_icon'/>
-              <p>Desenvolvimento de sites utilizando ferramentas NoCode</p>
+              <p>Desenvolvimento de layouts</p>
             </li>
             <li>
               <BsCheckAll className='service_icon'/>
