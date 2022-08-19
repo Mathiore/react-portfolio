@@ -35,7 +35,7 @@ const Sobre = () => {
           </div>
 
           <p>
-            Olá, sou um estudante de ciências da computação, muito interessado pela área de desenvolvimento web e todo o processo de criação
+            Olá, Sou um profissional de ciências da computação, muito interessado pela área de desenvolvimento web e todo o processo de criação
             de Front-End principalmente. Sempre procuro aprender sobre as novas tecnologias no mercado e no momento estou focado em ReactJS, tenho apenas alguns
             projetos feitos como Freelancer e principalmente projetos para estudos, porém tenho facilidade para aprender coisas novas e tecnologias diferentes.
           </p>
